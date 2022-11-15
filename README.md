@@ -2,7 +2,7 @@
 Hi! My name is Ihor Hadzera. I'm a software engineer and Ukrainian. As all of probably know, at 2022 Feb 24 Russia started invasion in the independent state of Ukraine. Ukrainian state and people desperatly need world's support against Russia's unprovoked and unjustified attack. Many people are willing to help, but struggle to find appropiate fundation/fundraiser based on their beliefs. I created this repository to share a weekly set of links to fundraisers that I found valuable and trustworthy grouped by categories. I hope that you'll like it!
 
 # Contributing
-Feel free to add your links to fundraisers by sending PR with update to NextWeek.md document.
+Feel free to add your links to fundraisers by sending PR with update to NextWeek.md document OR send me info at ihor.hadzera@gmail.com
 
 ## There are two rules:
 - it has to be genuine and trustworthy
@@ -21,7 +21,7 @@ Feel free to add your links to fundraisers by sending PR with update to NextWeek
   * Description links [UA] - [video description](https://www.youtube.com/watch?v=p-E32LBlavE), [telegram description](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWU2OC1LdWhnREN4MlRXVkFjcEQzN09oOXRqQXxBQ3Jtc0trNGVEd25BbW0tTkNkdmtQYnFZMXJhUXF4TjdXSTQtNnhVVS1QVFJHdzJFZFpXLTgzZE5MZTdoTlFaTmw2T3FNNlVueG5hOHdkVXhFY0ZuTC1qVW5nNVVncTliVFM5TGxXM1NEWUNxb1BoLWtZb1NJYw&q=https%3A%2F%2Ft.me%2F%2BVUR2lv55YAM0YmNi&v=p-E32LBlavE)
   * Fundraiser link - https://send.monobank.ua/jar/5McNfNQtPz
 ## Humanitarian aid
-- ### Fundraising by [FFU foundation](https://ffu.foundation/en) ***for children with ASD, evacuated from the war zone***:
+- ### Fundraising by [FFU foundation](https://ffu.foundation/en) **for children with ASD, evacuated from the war zone**:
   * Description link [EN]- https://ffu.foundation/en/cases/fundraising-for-children-with-asd-evacuated-from-the-war-zone
   * Fundraiser link - https://ffu.foundation/en/donate
 - ### Collection for **winter clothes for 400 ["Hospitallers"](https://www.hospitallers.life/) medical volunteers**:
