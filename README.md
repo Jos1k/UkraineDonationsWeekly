@@ -8,7 +8,7 @@ Feel free to add your links to fundraisers by sending PR with update to NextWeek
 - it has to be genuine and trustworthy
 - all links should be attached description at least in English. As more comprehensive description as better
 
-# 21th Nov 2022
+# 21st Nov 2022
 
 ## Military aid
 - ### ***Drone Fleet*** fundraiser by [United24](https://u24.gov.ua/) initiative to collect money for naval drones for AFU:
