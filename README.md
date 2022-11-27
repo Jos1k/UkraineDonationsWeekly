@@ -8,6 +8,27 @@ Feel free to add your links to fundraisers by sending PR with update to NextWeek
 - it has to be genuine and trustworthy
 - all links should be attached description at least in English. As more comprehensive description as better
 
+# 28th Nov 2022
+
+## Military aid
+- ### Fundraiser by [Come back alive](https://savelife.in.ua/en) foundation to cllect money for 36 **mobile fire adjustment and counter-battery combat crews** for [AFU](https://en.wikipedia.org/wiki/Armed_Forces_of_Ukraine):
+  * Description link [UA] - https://www.facebook.com/backandalive/posts/pfbid025Us5AWb17ZGzxSs1FfuU5j6Gt7kTfiKTDAGJbmPKLdSFgb1UxWokdbEWnT45BHqKl
+  * Fundraiser link - https://savelife.in.ua/en/donate-en/#donate-army-card-monthly
+- ### "Hell Rides" fundraiser by [Serhiy Prytula](https://prytulafoundation.org/en) foundation to buy **vehicles for [AFU](https://en.wikipedia.org/wiki/Armed_Forces_of_Ukraine)**:
+  * Description link [EN] - https://prytulafoundation.org/en/projects/pekelni-tachky
+  * Fundraiser link - https://www.liqpay.ua/uk/checkout/card/checkout_1669564399316504_83733410_3aYDw7UBoOI0cWMjI5BG
+- ### **100 Starlinks for Ukrainian Army** by [Dzyga's Paw](https://dzygaspaw.com/about):
+  * Description & Fundraiser link [EN] - https://dzygaspaw.com/starlinks
+
+## Humanitarian aid
+- ### **"Medical billion"** fundraiser by ["Health Of the Ukrainian People"](https://houp.org/) foundation aims to collect money for 15 000 	limbs surgeries for defenders of Ukraine and russian aggression in Ukraine casualties:
+  * Description link [UA] - https://houp.org/uk/medical_billion/ 
+  * Fundraiser link - [Donorbox](https://donorbox.org/save-the-limb-of-ukraine-people?default_interval=m), [Monobank Jar](https://send.monobank.ua/jar/7z1GHTQ9LF)
+- ### Liev Schreiber`s fundraiser for **generators to support medical facilities** in Ukraine:
+  * Description & Fundraiser Link - https://donorbox.org/lievschreiber
+- ### Christmas Box of Hope by [Haven Today](https://haventoday.org/) foundation collects funds for ukrainian children Christmas boxes:
+  * Description & Fundraiser link [EN] - https://haventoday.org/product/christmas-box-of-hope/
+
 # 21st Nov 2022
 
 ## Military aid
